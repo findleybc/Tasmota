@@ -70,5 +70,7 @@
         "tooltip": "PlatformIO: Rebuild IntelliSense Index",
         "commands": "platformio-ide.rebuildProjectIndex"
       }
-    ]
+    ],
+    "platformio-ide.pioHomeServerHttpHost": "0.0.0.0",
+    "platformio-ide.disablePIOHomeStartup": true
   }
